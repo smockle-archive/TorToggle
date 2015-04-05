@@ -393,6 +393,7 @@
 				6F8381741ACF6613007F9EFB /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		6F8381751ACF6613007F9EFB /* Build configuration list for PBXNativeTarget "TorToggleTests" */ = {
 			isa = XCConfigurationList;
@@ -401,6 +402,7 @@
 				6F8381771ACF6613007F9EFB /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

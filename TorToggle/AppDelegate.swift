@@ -65,5 +65,9 @@ class AppDelegate: NSObject, NSApplicationDelegate {
         
         updateStatusMenuState()
     }
+    
+    @IBAction func terminateApplication(sender: AnyObject) {
+        NSApplication.sharedApplication().terminate(self)
+    }
 }
 
